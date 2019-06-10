@@ -1,0 +1,11 @@
+@import "./App.css";
+
+@import "./components/header/navigation/Navigation.css";
+
+@import "./components/footer/Footer.css";
+
+@import "./components/content/home/Home.css";
+@import "./components/content/about/About.css";
+@import "./components/content/skills/Skills.css";
+@import "./components/content/projects/Projects.css";
+@import "./components/content/contact/Contact.css";

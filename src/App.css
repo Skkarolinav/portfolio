@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.app{
+    display: flex;
+    flex-direction: column;
+    color: #222;
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    flex-basis: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+main{
+    display: flex;
+    flex-grow: 1;
+}
+
+section.page{
+    flex-grow: 1;
+}
+
+footer{
+    color: black;
+    padding: 10px 0 20px;
+    text-align: right;
+    min-height: 80px;
+    height: 10vh;
+    border-top: 2px solid rgba(128, 128, 128, 0.205);
+}
