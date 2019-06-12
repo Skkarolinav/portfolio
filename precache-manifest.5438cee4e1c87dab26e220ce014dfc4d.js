@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "342e8267855cdd74ecf24c9363a8424b",
+    "revision": "83a60bd6bcb1bca36a8df324f0df8991",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "15a16a6887255a2dba20",
+    "revision": "589b7df8a8f3cae6327c",
     "url": "/portfolio/static/css/main.0e5ffc70.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.313606f0.chunk.js"
   },
   {
-    "revision": "15a16a6887255a2dba20",
-    "url": "/portfolio/static/js/main.234c6056.chunk.js"
+    "revision": "589b7df8a8f3cae6327c",
+    "url": "/portfolio/static/js/main.8e767245.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Kit_Weather_Application.d92fb158.png"
   },
   {
-    "revision": "172980a3d4000610e439f7c000e180f2",
-    "url": "/portfolio/static/media/My_CV.172980a3.pdf"
+    "revision": "d54ab61605d863928182043fce9c7dd4",
+    "url": "/portfolio/static/media/My_CV.d54ab616.pdf"
   },
   {
     "revision": "d8545a6b3b54aee1f629ca1e323fb342",
