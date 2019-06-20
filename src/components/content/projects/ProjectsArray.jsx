@@ -4,8 +4,9 @@ import kitPhotography from '../../../assets/images/projects/Kit_Photography_Webs
 import kitDentistry from '../../../assets/images/projects/Kit_Dentistry_Website.png'
 import kitInteriorFinishing from '../../../assets/images/projects/Kit_Interior_Finishing_Website.png'
 
-import kitWeather from '../../../assets/images/projects/Kit_Weather_Application.png'
+import kitCalculator from '../../../assets/images/projects/Kit_Calculator_Application.png'
 import kitExchangeCurrency from '../../../assets/images/projects/Kit_Exchange_Currency_Application.png'
+import kitWeather from '../../../assets/images/projects/Kit_Weather_Application.png'
 import kit2DHistogram from '../../../assets/images/projects/Kit_2D_Histogram_Application.png'
 
 export const tableProjectsWeb = [
@@ -13,7 +14,7 @@ export const tableProjectsWeb = [
         title: 'Website for a Photographer', 
         photo: <img src={kitPhotography} alt='Photography Website'/>, 
         desc: 'Currently I am working on a commercial multi page website for a photographer.', 
-        btn1: 'Soon!'
+        btn1: <i class="fas fa-globe"> www - soon </i>, 
     },
     {
         title: 'Website for a Dental Clinic', 
@@ -32,6 +33,15 @@ export const tableProjectsWeb = [
 ]
 
 export const tableProjectsApps = [
+    {
+        title: 'Calculator', 
+        photo: <img src= {kitCalculator} alt='Calculator'/>, 
+        desc: 'Application designed for computing basic mathematical operations. ', 
+        btn1: <i className="fab fa-github"> Code </i>,
+        btn2: <i className="fab fa-github"> Live </i>,
+        address1: 'https://github.com/Skkarolinav/calculator-app',
+        address2: 'https://skkarolinav.github.io/calculator-app/'
+    },
     {
         title: 'Exchange Curency Converter', 
         photo: <img src= {kitExchangeCurrency} alt='Exchange Currency Converter'/>, 
