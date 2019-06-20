@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83a60bd6bcb1bca36a8df324f0df8991",
+    "revision": "2ad6f95b20a02da033e690edbb123df3",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "589b7df8a8f3cae6327c",
-    "url": "/portfolio/static/css/main.0e5ffc70.chunk.css"
+    "revision": "18d3f21ef9636f39d026",
+    "url": "/portfolio/static/css/main.9671d5cf.chunk.css"
   },
   {
-    "revision": "adbe3fa7d54125cdb4cc",
-    "url": "/portfolio/static/js/2.313606f0.chunk.js"
+    "revision": "1f2827afeddd6615e6d4",
+    "url": "/portfolio/static/js/2.f4391901.chunk.js"
   },
   {
-    "revision": "589b7df8a8f3cae6327c",
-    "url": "/portfolio/static/js/main.8e767245.chunk.js"
+    "revision": "18d3f21ef9636f39d026",
+    "url": "/portfolio/static/js/main.4a4d0aac.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f5127a0a7b8737b51fb13e8f7a61aa0",
     "url": "/portfolio/static/media/Kit_2D_Histogram_Application.5f5127a0.png"
+  },
+  {
+    "revision": "cadbf9b7c4f298458d54d6b2feb157ec",
+    "url": "/portfolio/static/media/Kit_Calculator_Application.cadbf9b7.png"
   },
   {
     "revision": "bbde4128826497159cc82a50bccfc712",
