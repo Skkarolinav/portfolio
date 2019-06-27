@@ -26,7 +26,7 @@ const Home = () => {
                 </Parallax>
             </div>
             <Link className='arrow jump' activeClass='active' to={'About'} spy={true} smooth={true} offset={0} duration={500}>
-                <i class='fas fa-arrow-alt-circle-down'></i>
+                <i className='fas fa-arrow-alt-circle-down'></i>
             </Link>
         </>
      );

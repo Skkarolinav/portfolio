@@ -14,20 +14,20 @@ export const tableProjectsWeb = [
         title: 'Website for a Photographer', 
         photo: <img src={kitPhotography} alt='Photography Website'/>, 
         desc: 'Currently I am working on a commercial multi page website for a photographer.', 
-        btn1: <i class="fas fa-globe"> www - soon </i>, 
+        btn1: <i className="fas fa-globe"> www - soon </i>, 
     },
     {
         title: 'Website for a Dental Clinic', 
         photo: <img src={kitDentistry} alt='Dentistry Website'/>, 
         desc: 'Commercial single page website created for a dental clinic.', 
-        btn1: <i class="fas fa-globe"> www </i>, 
+        btn1: <i className="fas fa-globe"> www </i>, 
         address: 'http://dentimaleki.pl/#/'
     },
     {
         title: 'Website for a Building Company', 
         photo: <img src={kitInteriorFinishing} alt='Interior Finishing Website'/>, 
         desc: 'Commercial single page website created for an interior finishing company.', 
-        btn1: <i class="fas fa-globe"> www </i>,
+        btn1: <i className="fas fa-globe"> www </i>,
         address: 'http://walldone-remonty.pl/#/'
     },
 ]

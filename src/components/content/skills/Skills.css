@@ -24,6 +24,8 @@
 
 .skills-my-col{
     text-align: center;
+    margin-left: 3%;
+    /* background: red; */
 }
 
 .skills-description{
@@ -39,6 +41,13 @@
     opacity: 1;
     font-size: 25px; 
     padding:5% 0 5% 0; 
+}
+
+@media screen and ( max-width:1355px) {
+    .skills-description{
+        margin-left: 5%;
+
+    }
 }
 
 @media screen and (max-width: 600px) {

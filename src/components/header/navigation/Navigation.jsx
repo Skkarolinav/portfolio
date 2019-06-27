@@ -12,7 +12,7 @@ const titlesNav = [
 const Navigation = () => { 
 
     const tableNav = titlesNav.map(item => (
-        <li class='nav-item '>
+        <li className='nav-item '>
             <Link className='nav-link' activeClass='active' to={item} spy={true} smooth={true} offset={0} duration={500}>
                 {item}
             </Link>
@@ -21,15 +21,15 @@ const Navigation = () => {
  
     return ( 
         <>
-            <div class='navbar navbar-expand-lg navbar-dark container green borderXwidth  '>
-                <Link class='navbar-brand ' to='#'>
+            <div className='navbar navbar-expand-lg navbar-dark container green borderXwidth  '>
+                <Link className='navbar-brand ' to='#'>
                     <strong>SKV</strong>
                 </Link> 
-                <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>
-                    <span class='navbar-toggler-icon'></span>
+                <button className='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>
+                    <span className='navbar-toggler-icon'></span>
                 </button>
-                <div class='collapse navbar-collapse' id='navbarNav'>
-                    <ul class='navbar-nav'>
+                <div className='collapse navbar-collapse' id='navbarNav'>
+                    <ul className='navbar-nav'>
                         {tableNav}
                     </ul>
                 </div>
